@@ -1,0 +1,15 @@
+DIO
+
+Logica de programação:
+Algoritmos e pseudocodio
+Fluxograma, variáveis e constante
+Tomada de decisões e expressões
+Concatenação
+
+Portugol
+Estrutura de repetição
+Linguagem de programação
+Laço de repetição
+Matriz e vetores
+
+
